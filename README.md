@@ -1,3 +1,9 @@
+⚠️ !!! .env file needed with API Keys for Napster, Youtube, and LastFM use!!!
+
+
+![Screen Shot 2022-08-03 at 5 10 18 PM](https://user-images.githubusercontent.com/27170951/182712476-1771b639-8cb7-4599-9588-66616e57ed94.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
