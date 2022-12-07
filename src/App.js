@@ -20,7 +20,6 @@ export default function App() {
         <Route path="*" element={(<><Error /><Home /></>)} />
       </Routes>
     </BrowserRouter>
-
   )
 }
 
