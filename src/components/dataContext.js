@@ -188,7 +188,7 @@ function DataContextProvider(props) {
 
   // YOUTUBE SEARCH: COMMENT OUT TO PREVENT QUOTA MAX
   function youTubeSearch(initialList) {
-    localStorage.localYoutubeData[0].length > 3 ?
+    localStorage.localYoutubeData && localStorage.localYoutubeData[0].length > 3 ?
       setYoutube(JSON.parse(localStorage.getItem(("localYoutubeData"))))
       :
       initialList.map((item) => {
